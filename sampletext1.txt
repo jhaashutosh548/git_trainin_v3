@@ -2,3 +2,4 @@ GIT commit revert 2
 
 this is a sampe file1
 this is the comparission lecture,change in file 2
+this is the comparission lecture,change in file 2
