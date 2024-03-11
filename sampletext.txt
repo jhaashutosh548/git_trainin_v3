@@ -1,2 +1,4 @@
-GIT revert commit1
-this is a sample file
+
+GIT reset commit 2
+
+this is a sample file2
