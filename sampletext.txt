@@ -1,2 +1,2 @@
-GIT revert commit 1
+GIT revert commit1
 this is a sample file
