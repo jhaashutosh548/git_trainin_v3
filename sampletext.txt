@@ -2,3 +2,4 @@
 GIT reset commit 2
 
 this is a sample file2
+this is one more commit 
