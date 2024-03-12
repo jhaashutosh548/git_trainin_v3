@@ -5,4 +5,9 @@ this is a sample file2
 this is one more commit 
 this is the comparission lecture
 this is the comparission lecture
+<<<<<<< Updated upstream
 this is stash lecture,change in main file 
+=======
+this is stash lecture change in file 1
+this is stash lecture change in file 
+>>>>>>> Stashed changes
