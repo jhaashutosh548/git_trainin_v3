@@ -1,2 +1,7 @@
+
 "Love is the melody that harmonizes the symphony of life, a timeless dance of hearts entwined in the poetry of connection."
+GIT commit revert 2
+
 this is a sampe file1
+this is the comparission lecture,change in file 2
+this is the comparission lecture,change in file 2

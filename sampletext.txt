@@ -1,1 +1,7 @@
-this is a sample file
+
+GIT reset commit 2
+
+this is a sample file2
+this is one more commit 
+this is the comparission lecture
+this is the comparission lecture
