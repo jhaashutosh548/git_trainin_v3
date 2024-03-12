@@ -5,3 +5,4 @@ this is a sample file2
 this is one more commit 
 this is the comparission lecture
 this is the comparission lecture
+this is stash lecture,change in main file 
